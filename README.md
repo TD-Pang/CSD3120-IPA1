@@ -1,18 +1,17 @@
 # CSD3120-IPA1
 
-Pang Tun Dagh 2000688
+Name: Pang Tun Dagh 
 
-Video Link: https://youtu.be/UrlkexPRTkA
+SIT ID: 2000688
 
-Ensure that you have installed the following:
-1. npm
-2. nodejs
+Built and tested with the Quest/Quest 2
 
-To install those dependencies, do the following:
-1. Run wsl in your folder directory (i.e. C:/User/VirtualReality) and run the command 'npm install'
+Open the following link (https://td-pang.github.io/CSD3120-IPA1/) with the Meta Quest Browser and press the VR selection on the bottom right to start.
 
-To run and build the server, input the following commands in order:
-1. npm run build
-2. npm run serve
+1. Move around with the left thumbstick or teleport by holding down the right thumb stick to generate the teleport indicator. Release the right thumbstick to teleport to the indicated location.
 
-After that, open your browser and go to http://localhost:3000/
+2. Grab with the grab button on the controller to move objects around.
+
+3. When an object is grabbed, grab it with both hands and pull outwards to expand the object or push inwards to shrink it.
+
+4. Atoms can be attached and detached together to form molecules using covalent bonds (the cylinders) by grabbing the atoms and placing them in the snap zone, or pulling them off to break molecules into atoms again.
