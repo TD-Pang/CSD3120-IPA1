@@ -25,3 +25,4 @@ locomotion interaction doesn't work
 ## Other feedback
 This is not exported to be compliant with WebXR.
 Interactions all do not work on desktop and in the quest.
+
